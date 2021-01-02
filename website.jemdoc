@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Bocheng Yu
+
+~~~
+{}{img_left}{photos/ybc.jpg}{alt text}{137}{200}{http://flyfish2001.github.io}
+Student, \n
+Tsien Hsue-shen class,\n
+[http://www.zhiyuan.sjtu.edu.cn/  Zhiyuan Honor Program], \n
+[http://www.me.sjtu.edu.cn/  Department of Mechanical Engineering], \n [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University]\n
+800 Dongchuan Road \n
+Shanghai 200240, P.R. China \n
+E-mail: /yubocheng/ \[@\] sjtu \[DOT\] edu \[DOT\] cn
+~~~
+
+== About me
+Welcome to my homepage! I am a student in the Tsien Hsue-shen class,[http://www.me.sjtu.edu.cn/  Department of Mechanical Engineering]@ [https://www.sjtu.edu.cn/ Shanghai Jiao Tong University].
+
+My research interests are in the robotics. In particular, I have focused on medical robotics.Now I study in team [http://www.rii.sjtu.edu.cn/  RII].
+
+~~~
+Please email me if you have some ideas.
+~~~
+
+
+~~~
+== Recent News
+- busy with final exams.
+~~~
+
+== Research Interests
+- Medical Robotics
+- Deep Learning
