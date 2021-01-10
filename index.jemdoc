@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-==Bocheng Yu
+==Bocheng Yu(余柏呈)
 
 ~~~
 {}{img_left}{photos/ybc.jpg}{alt text}{137}{200}{http://flyfish2001.github.io}
@@ -9,25 +9,31 @@ Tsien Hsue-shen class,\n
 [http://me.sjtu.edu.cn/  Department of Mechanical Engineering], \n [http://www.sjtu.edu.cn/ Shanghai Jiao Tong University]\n
 800 Dongchuan Road \n
 Shanghai 200240, P.R. China \n
-E-mail: /yubocheng@sjtu.edu.cn \n
+E-mail: yubocheng@sjtu.edu.cn \n
 QQ:906596708
 ~~~
 
 == About me
-Welcome to my homepage! I am a student in the Tsien Hsue-shen class,[http://me.sjtu.edu.cn/  Department of Mechanical Engineering]@ [http://www.sjtu.edu.cn/ Shanghai Jiao Tong University].
+Welcome to my homepage! I am now a student in the Tsien Hsue-shen class,[http://me.sjtu.edu.cn/  Department of Mechanical Engineering]@ [http://www.sjtu.edu.cn/ Shanghai Jiao Tong University].
 
-My research interests are in the robotics. In particular, I have focused on surgical robotics.Now I study in team [http://rii.sjtu.edu.cn/  RII].
-
+My research interests are in the robotics,especially in surgical robotic.Now I study in team [http://rii.sjtu.edu.cn/  RII],which is focus on continuum robots using a single access port.\n
 ~~~
-Please email me if you have some ideas.
+If you have some ideas or trouble,I'm happy to discuss with you.
 ~~~
-
 
 ~~~
-== Recent News
-- busy with final exams.
+== About my scores and goals
+I don't think it's necessary to know me more from my scores so I can only tell you that the average score including all my core curriculums is 85+.\n
+But *HERE* are my goals about studying: 
+- 95\+ (4.3) for core curriculums I am good at;
+- 90\+ (4.0\+) for all core curriculums;
+- 85\+ (3.7\+) for all curriculums;
 ~~~
+
+== Skills
+- Programming:Not bad at Python and CPP,know a little about MATLAB.I can also use some ML or DL tools in Python such as Tensorflow and Pytorch.
+- Some basic softwares such as CAD,SolidWorks,Adams and so on.
 
 == Research Interests
 - Surgical Robotics
-- Deep Learning
+- Computer vision and Deep Learning
